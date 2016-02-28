@@ -1,0 +1,10 @@
+{
+  "name": "Drawer",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "canvas": "^1.3.10",
+    "fs": "0.0.2"
+  }
+}
